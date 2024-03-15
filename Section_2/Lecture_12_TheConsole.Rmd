@@ -1,0 +1,9 @@
+---
+title: "Lecture 12 Using The R Console"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+Basically going over creating and printing a variable in the console as opposed to doing it in the Scripting Area.
