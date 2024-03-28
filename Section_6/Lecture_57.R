@@ -71,7 +71,7 @@ p <- ggplot(data = movies,
                 size = BudgetMillions,
             )
 )
-# Oddly tutor got list of p for p but I got list of 11? All code same as his.
+# Oddly tutor got list of 9 for p but I got list of 11? All code same as his.
 # My copy of R shows different in the Environment, I have to click magnifying
 # glass next to p to see the breakdown in a new tab where his is all in the environment.
 # Think I prefer my version.  It is less crowded.  Still worried that I got list of 11 not 9
